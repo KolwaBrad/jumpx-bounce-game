@@ -34,6 +34,10 @@ Follow the steps below to get JumpX up and running on your local machine.
     ```bash
     git clone https://github.com/your-username/JumpX.git
     ```
+2. Install pygame
+    ```bash
+    pip install pygame
+    ```
 2. Open the project in Unity.
 
 3. Build and run the game within the Unity editor.
