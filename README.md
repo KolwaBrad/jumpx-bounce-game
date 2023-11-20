@@ -13,7 +13,7 @@ Welcome to JumpX, an advanced version of the classic bounce game developed using
 - [License](#license)
 
 ## Overview
-JumpX is a game where players control a character that jumps and bounces off walls to navigate through various levels. The goal is to reach the end of each level while avoiding obstacles and collecting points.
+JumpX is a game where players control a character that jumps and bounces off walls to navigate through various levels. The goal is to reach the end of each level while avoiding obstacles and collecting points. Unlike the original bounce game, this will have more objects to interact with making it more complex and interesting.
 
 ## Features
 - Intuitive controls for an engaging gaming experience.
@@ -25,7 +25,6 @@ JumpX is a game where players control a character that jumps and bounces off wal
 Follow the steps below to get JumpX up and running on your local machine.
 
 ### Prerequisites
-- [Unity](https://unity.com/) game engine installed.
 - [Visual Studio Code](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/) for coding.
 - [Python](https://www.python.org/) installed on your machine.
 
@@ -38,7 +37,6 @@ Follow the steps below to get JumpX up and running on your local machine.
     ```bash
     pip install pygame
     ```
-2. Open the project in Unity.
 
 3. Build and run the game within the Unity editor.
 
